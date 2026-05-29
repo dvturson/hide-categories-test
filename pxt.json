@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "pxt.json"
     ],
     "testFiles": [
         "test.ts"
@@ -18,16 +19,19 @@
         "target": "8.0.22",
         "targetId": "microbit"
     },
-    "supportedTargets": [
-        "microbit"
-    ],
     "preferredEditor": "blocksprj", 
     "toolboxFilter": {
+        "namespaces": {
+            "math": "hidden",
+            "logic": "hidden",
+            "loops": "hidden",
+            "variables": "hidden",
+            "radio": "hidden",
+            "pins": "hidden",
+            "serial": "hidden"
+        },
         "blocks": {
             "device_show_leds": "hidden"
-        },
-        "namespaces": {
-            "pins": "hidden"
         }
     }
 }

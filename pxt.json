@@ -30,9 +30,6 @@
             "pins": "hidden",
             "serial": "hidden",
             "music": "hidden"
-        },
-        "blocks": {
-            "device_show_leds": "hidden"
         }
     }
 }

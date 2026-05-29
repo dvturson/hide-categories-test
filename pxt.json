@@ -22,6 +22,7 @@
         "microbit"
     ],
     "preferredEditor": "blocksprj", 
+    "features": ["toolbox-custom"],
     "coreCategories": [
         "basic",
         "input",

@@ -21,5 +21,10 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj", 
+    "coreCategories": [
+        "basic",
+        "input",
+        "music"
+    ],
 }

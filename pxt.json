@@ -28,7 +28,8 @@
             "variables": "hidden",
             "radio": "hidden",
             "pins": "hidden",
-            "serial": "hidden"
+            "serial": "hidden",
+            "music": "hidden"
         },
         "blocks": {
             "device_show_leds": "hidden"

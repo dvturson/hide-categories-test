@@ -22,10 +22,12 @@
         "microbit"
     ],
     "preferredEditor": "blocksprj", 
-    "features": ["toolbox-custom"],
-    "coreCategories": [
-        "basic",
-        "input",
-        "music"
-    ]
+    "toolboxFilter": {
+        "blocks": {
+            "device_show_leds": "hidden"
+        },
+        "namespaces": {
+            "pins": "hidden"
+        }
+    }
 }
